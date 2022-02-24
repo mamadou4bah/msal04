@@ -15,7 +15,7 @@
 	<description>Spring Boot et MySQL. Creation de la base previte_assure_db et de la table assure</description>
 	<properties>
 		<java.version>1.8</java.version>
-		<spring-cloud.version>2021.0.1</spring-cloud.version>
+		<spring-cloud.version>Hoxton.SR8</spring-cloud.version>
 	</properties>
 	<dependencies>
 		<dependency>
